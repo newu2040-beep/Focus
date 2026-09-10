@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle Outer Circular Halo Ring -->
+    <path
+        android:pathData="M54,25 A29,29 0 1,1 53.99,25"
+        android:strokeWidth="1.5"
+        android:strokeColor="#40FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Main Outer Focus Dial Ring -->
+    <path
+        android:pathData="M54,30 A24,24 0 1,1 53.99,30"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- 4 Cardinal Circular Accents -->
+    <!-- Top 12 o'clock -->
+    <path
+        android:pathData="M54,22 A2,2 0 1,1 53.99,22"
+        android:fillColor="#E8F5E9" />
+    <!-- Bottom 6 o'clock -->
+    <path
+        android:pathData="M54,82 A2,2 0 1,1 53.99,82"
+        android:fillColor="#E8F5E9" />
+    <!-- Left 9 o'clock -->
+    <path
+        android:pathData="M24,52 A2,2 0 1,1 23.99,52"
+        android:fillColor="#E8F5E9" />
+    <!-- Right 3 o'clock -->
+    <path
+        android:pathData="M84,52 A2,2 0 1,1 83.99,52"
+        android:fillColor="#E8F5E9" />
+
+    <!-- Inner Concentric Zen Ring -->
+    <path
+        android:pathData="M54,37.5 A16.5,16.5 0 1,1 53.99,37.5"
+        android:strokeWidth="2.2"
+        android:strokeColor="#A5D6A7"
+        android:strokeLineCap="round" />
+
+    <!-- Central Solid Circular Medallion -->
+    <path
+        android:pathData="M54,43 A11,11 0 1,1 53.99,43"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Central Focal Core Dot -->
+    <path
+        android:pathData="M54,49.5 A4.5,4.5 0 1,1 53.99,49.5"
+        android:fillColor="#1E4B2E" />
+
+</vector>

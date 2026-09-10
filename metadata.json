@@ -1,0 +1,6 @@
+{
+  "name": "Focus Guide",
+  "description": "A minimalist, calm productivity and focus-management app with focus timer, tasks, quick notes, and daily progress review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
